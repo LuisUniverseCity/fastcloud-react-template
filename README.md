@@ -1,1 +1,0 @@
-# fastcloud-react-template
