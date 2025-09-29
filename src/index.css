@@ -3,6 +3,10 @@
 .test {
   @apply bg-blue-200 text-amber-100;
 }
+
+.no-outline {
+  @apply appearance-none focus:outline-none
+}
  
 /* Hide arrows in input type number (Chrome, Safari, Edge, Opera) */
 .no-arrows::-webkit-outer-spin-button,
